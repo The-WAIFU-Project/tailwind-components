@@ -1,4 +1,4 @@
-# WAIFU: Open-Source Web3 Design System and Frontend Library
+# WAIFU Project
 
 **WAIFU** is an open-source design system and frontend library of web3 components designed to help create seamless web3 experiences right out of the box.
 
